@@ -12,7 +12,9 @@ I know I could just hack HC-05 to make it HID Gamepad. But I need two of them, a
 
 
 This project depends on:
+
 https://pypi.org/project/pyserial/
+
 https://pypi.org/project/PYXInput/
 
 Please install these modules as described on their GitHub page before using this script since It won't work without them.
