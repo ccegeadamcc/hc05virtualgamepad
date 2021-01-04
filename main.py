@@ -9,7 +9,7 @@ print ("""\
  \___|\__, |\___|\__,_|\__,_|\__,_|_| |_| |_|
        __/ |                                 
       |___/         
-	  https://egemenkazanasmaz.com \n
+	  https://egeadam.com \n
 """)
 
 print("First Controller Setup Started")
